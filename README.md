@@ -30,3 +30,19 @@ This is just the short documentation on OpenCV for my own reading convenience.
 ### Color Spaces
 
 ![colorSpaces](ImagesForDocs/color_spaces.png)
+
+### Splitting And Merging Color Channels
+
+![SplitMerge](ImagesForDocs/splitMergeColorChannels.png)
+
+### Blurring
+
+![Blurring](ImagesForDocs/blurring.png)
+
+### Bitwise Operations
+
+![bitwiseOperations](ImagesForDocs/bitwise.png)
+
+### Masking
+
+![Masking](ImagesForDocs/masking.png)

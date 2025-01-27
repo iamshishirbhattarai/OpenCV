@@ -46,3 +46,15 @@ This is just the short documentation on OpenCV for my own reading convenience.
 ### Masking
 
 ![Masking](ImagesForDocs/masking.png)
+
+### Histogram
+
+![histogram](ImagesForDocs/histogram.png)
+
+### Threshold
+
+![thresh](ImagesForDocs/thresh.png)
+
+### Edge Detection 
+
+![edgeDetection](ImagesForDocs/edge_detection.png)
